@@ -22,8 +22,9 @@ Para saber mais sobre os objetivos da prova, siga o link: [Objetivos do exame da
 <mark>A certificação CompTIA Security+ (SY0-701) é uma das mais reconhecidas para profissionais que desejam ingressar ou avançar na área de segurança cibernética.</mark> Para garantir uma preparação eficiente, é essencial contar com materiais de estudo de qualidade, como cursos especializados, laboratórios práticos e simulados. A seguir, algumas sugestões de cursos que podem ajudar na sua jornada de estudos que abordam os principais tópicos cobrados no exame e fornecendo uma base sólida para a prova.
 
 ### _**Network+ e Dion Training**_
-<mark>Um dos principais fundamentos de segurança da informação é redes de computadores.</mark> Geografia, protocolos, as camadas de rede, IPv4, endereçamento e roteamento são alguns dos conteúdos necessários ter-se como base para um bom entendimento dos tópicos abordados no exame Security+. Se você estiver procurando por reforçar ou até aprender, minha recomendação é o curso por vídeo do Dion Training no youtube  
-> [Netowrk with Dion](https://www.youtube.com/watch?v=aLcwF_-PjKk&list=PL1rFvQRVWVVaDtvhQxWa8eLVShDUTTbvQ)
+<mark>Um dos principais fundamentos de segurança da informação é redes de computadores.</mark> Geografia, protocolos, as camadas de rede, IPv4, endereçamento e roteamento são alguns dos conteúdos necessários ter-se como base para um bom entendimento dos tópicos abordados no exame Security+. Se você estiver procurando por reforçar ou até aprender, minha recomendação é o curso por vídeo do Dion Training no youtube e também sua bateria de exames na Udemy, excelente para quanto concluir os exames e estiver revisando 
+> [Netowrk with Dion](https://www.youtube.com/watch?v=aLcwF_-PjKk&list=PL1rFvQRVWVVaDtvhQxWa8eLVShDUTTbvQ)  
+> [Exames Udemy](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/?couponCode=25BBPMXACCAGE1)
 
 ### _**Security+ e Professor Messer**_
 Professor Messer é um dos principais cursos recomendados por aqueles que realizaram a prova Security+ e conseguiram passar  
